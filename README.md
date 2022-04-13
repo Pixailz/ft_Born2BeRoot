@@ -82,7 +82,6 @@ then `Choose a disk`<br>
 - Separate /home /var and /tmp partition<br>
 ![](./imgs/installation/debian/partition_separated.png)<br>
 ![](./imgs/installation/debian/partition_write.png)
-- > now wait to encryption to finish
 - Set encryption password<br>
 ![](./imgs/installation/debian/password_encryption.png)
 - Set partition size<br>
