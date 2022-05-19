@@ -138,8 +138,3 @@ click on `Restore`<br>
 remove line begin with `deb cdrom:[Debian`
 file should look like this:<br>
 ![](./imgs/setup/exemple_sources.png)
-
-## Definitions
-
-- [LVM](https://www.linuxtricks.fr/wiki/lvm-sous-linux-volumes-logiques)
-- [tuto](https://baigal.medium.com/born2beroot-e6e26dfb50ac)
